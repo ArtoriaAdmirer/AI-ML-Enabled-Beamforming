@@ -1,0 +1,22 @@
+# Notebooks
+
+This directory contains all Jupyter notebooks for experimentation and analysis of ML-enabled beamforming.
+
+## Structure
+
+Notebooks are organized by development stage:
+- **V1-V2**: MLP experiments
+- **V3**: Ridge Regression approaches
+- **V4a-V4b**: Deep Neural Network implementations
+
+## Usage
+
+To work with notebooks:
+
+1. Ensure all dependencies are installed
+2. Place notebook files in this directory
+3. Run Jupyter notebooks to reproduce experiments and analysis
+
+---
+
+**Note**: Add your notebooks to this folder as you develop and conduct experiments.
