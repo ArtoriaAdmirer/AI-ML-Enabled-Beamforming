@@ -1,0 +1,28 @@
+# Datasets
+
+This directory contains all datasets used for training and evaluating the ML models.
+
+## Dataset Types
+
+- **Rayleigh Fading**: Empirical channel measurements with Rayleigh fading characteristics
+- **3GPP CDL**: Industry-standard 3GPP Clustered Delay Line channel models
+- **DeepMIMO (OpenCSI)**: Advanced large-scale MIMO channel dataset
+
+## Structure
+
+Organize datasets by type:
+- `rayleigh_fading/`: Rayleigh channel measurements
+- `3gpp_cdl/`: 3GPP CDL channel data
+- `deepmimo_opencsi/`: DeepMIMO dataset files
+
+## Usage
+
+To use datasets:
+
+1. Place dataset files in their respective subdirectories
+2. Reference dataset paths in your notebooks and training scripts
+3. Ensure proper data preprocessing before model training
+
+---
+
+**Note**: Add your datasets to the appropriate subdirectories as you collect and prepare data.
