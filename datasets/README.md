@@ -6,7 +6,7 @@ This directory contains information about accessing the datasets used for traini
 
 Due to file size limitations on GitHub, datasets are stored on **Google Drive**. Please use the link below to access them:
 
-### 📁 [Access Datasets on Google Drive](https://drive.google.com/YOUR-DRIVE-LINK-HERE)
+### 📁 [Access Datasets on Google Drive](https://drive.google.com/drive/folders/1mdMq2aptcf72NHm5rj4hTIgTM14sIr7r?usp=sharing)
 
 ## Dataset Types
 
