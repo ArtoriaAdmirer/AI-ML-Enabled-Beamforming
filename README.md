@@ -59,6 +59,7 @@ The research approach:
 ```
 AI-ML-Enabled-Beamforming/
 ├── README.md                          # Main project documentation
+├── LICENSE                            # MIT License
 ├── Notebooks/                         # Jupyter notebooks by development stage
 │   ├── V1-V2_MLP/
 │   ├── V3_Ridge_Regression/
@@ -159,7 +160,7 @@ All models are trained and evaluated using empirical data:
 
 👉 **[Download Datasets](./datasets/README.md)**
 
-## 🔗 Notebooks Overview
+## 📘 Notebooks Overview
 
 | Notebook | Focus | Output |
 |----------|-------|--------|
@@ -177,18 +178,55 @@ Contributions are welcome! Areas for contribution:
 - Performance benchmarking
 - Documentation improvements
 
-Please submit a pull request or open an issue to discuss potential improvements.
+Please submit a pull request or open an issue to discuss potential improvements. By contributing, you agree that your contributions will be licensed under the same MIT License.
 
 ## 📄 License
 
-[Specify your license here]
+This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
 
+### About the MIT License
+
+The MIT License is a permissive open-source license that allows you to:
+- ✅ Use the software for any purpose (commercial or non-commercial)
+- ✅ Copy, modify, and distribute the software
+- ✅ Include the software in proprietary applications
+
+The only requirement is to include the original copyright notice and license text.
+
+### Citation
+
+If you use this project in your research, please cite it as:
+
+```bibtex
+@software{ai_ml_beamforming_2026,
+  author = {ArtoriaAdmirer},
+  title = {AI-ML-Enabled Beamforming for 5G/6G URLLC},
+  year = {2026},
+  url = {https://github.com/ArtoriaAdmirer/AI-ML-Enabled-Beamforming}
+}
+```
+
+## 📚 References & Further Reading
+
+[Add key papers, standards, and resources:
+- 3GPP Technical Specifications
+- DeepMIMO dataset papers
+- Machine learning for signal processing research]
+
+## 👤 Contact & Support
+
+For questions, issues, or inquiries:
+- Open an issue on this repository
+- Contact the repository maintainer
+
+---
 
 ## 🌟 Project Status
 
 - ✅ Core ML models implemented and validated
 - ✅ Datasets organized and linked
 - ✅ Notebooks and documentation in place
+- ✅ License and contribution guidelines established
 - 🔄 Ready for community contributions
 - 🎯 Continuing optimization and benchmarking
 
