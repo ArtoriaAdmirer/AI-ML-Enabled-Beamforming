@@ -206,20 +206,6 @@ If you use this project in your research, please cite it as:
 }
 ```
 
-## 📚 References & Further Reading
-
-[Add key papers, standards, and resources:
-- 3GPP Technical Specifications
-- DeepMIMO dataset papers
-- Machine learning for signal processing research]
-
-## 👤 Contact & Support
-
-For questions, issues, or inquiries:
-- Open an issue on this repository
-- Contact the repository maintainer
-
----
 
 ## 🌟 Project Status
 
