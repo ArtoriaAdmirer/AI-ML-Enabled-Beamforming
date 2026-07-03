@@ -1,0 +1,28 @@
+# Project Report and Publications
+
+This directory contains the project report and any publications related to the ML-enabled beamforming research.
+
+## Contents
+
+- **Project Report**: Comprehensive technical report documenting the project methodology, findings, and conclusions
+- **Publications**: Research papers, conference proceedings, or journal articles resulting from this project
+- **Supplementary Materials**: Additional technical documentation, appendices, and supporting materials
+
+## Structure
+
+```
+Project Report and Publications/
+├── project_report/          # Main project report documents
+├── publications/            # Research papers and publications
+└── supplementary/           # Additional materials and appendices
+```
+
+## Usage
+
+- Store finalized project reports in the `project_report/` directory
+- Organize published papers in the `publications/` directory
+- Add supplementary materials, figures, and data in the `supplementary/` directory
+
+---
+
+**Note**: Add your project reports and publications to the respective directories as they are completed.
